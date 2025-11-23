@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "inventory": 23,
+    "avgSales": 45,
+    "leadTime": 6
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "inventory": 5,
+    "avgSales": 60,
+    "leadTime": 3
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "inventory": 15,
+    "avgSales": 35,
+    "leadTime": 4
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "inventory": 10,
+    "avgSales": 50,
+    "leadTime": 2
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "inventory": 20,
+    "avgSales": 40,
+    "leadTime": 5
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "inventory": 18,
+    "avgSales": 42,
+    "leadTime": 7
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "inventory": 12,
+    "avgSales": 38,
+    "leadTime": 6
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "inventory": 4,
+    "avgSales": 55,
+    "leadTime": 3
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "inventory": 9,
+    "avgSales": 48,
+    "leadTime": 4
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "inventory": 22,
+    "avgSales": 46,
+    "leadTime": 5
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "inventory": 7,
+    "avgSales": 52,
+    "leadTime": 6
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "inventory": 14,
+    "avgSales": 41,
+    "leadTime": 7
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "inventory": 16,
+    "avgSales": 39,
+    "leadTime": 5
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "inventory": 11,
+    "avgSales": 44,
+    "leadTime": 3
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "inventory": 20,
+    "avgSales": 50,
+    "leadTime": 6
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "inventory": 13,
+    "avgSales": 43,
+    "leadTime": 4
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "inventory": 8,
+    "avgSales": 47,
+    "leadTime": 5
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "inventory": 6,
+    "avgSales": 49,
+    "leadTime": 7
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "inventory": 9,
+    "avgSales": 45,
+    "leadTime": 6
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "inventory": 25,
+    "avgSales": 42,
+    "leadTime": 5
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "inventory": 7,
+    "avgSales": 52,
+    "leadTime": 3
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "inventory": 4,
+    "avgSales": 40,
+    "leadTime": 6
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "inventory": 14,
+    "avgSales": 41,
+    "leadTime": 4
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "inventory": 12,
+    "avgSales": 43,
+    "leadTime": 7
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "inventory": 15,
+    "avgSales": 39,
+    "leadTime": 5
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "inventory": 8,
+    "avgSales": 49,
+    "leadTime": 3
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "inventory": 5,
+    "avgSales": 52,
+    "leadTime": 6
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "inventory": 11,
+    "avgSales": 45,
+    "leadTime": 4
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "inventory": 16,
+    "avgSales": 48,
+    "leadTime": 5
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "inventory": 14,
+    "avgSales": 41,
+    "leadTime": 6
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "inventory": 7,
+    "avgSales": 40,
+    "leadTime": 3
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "inventory": 12,
+    "avgSales": 51,
+    "leadTime": 4
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "inventory": 18,
+    "avgSales": 49,
+    "leadTime": 7
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "inventory": 15,
+    "avgSales": 38,
+    "leadTime": 5
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "inventory": 10,
+    "avgSales": 52,
+    "leadTime": 6
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "inventory": 11,
+    "avgSales": 45,
+    "leadTime": 7
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "inventory": 9,
+    "avgSales": 41,
+    "leadTime": 3
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "inventory": 4,
+    "avgSales": 40,
+    "leadTime": 6
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "inventory": 14,
+    "avgSales": 43,
+    "leadTime": 4
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "inventory": 7,
+    "avgSales": 48,
+    "leadTime": 5
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "inventory": 18,
+    "avgSales": 50,
+    "leadTime": 7
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "inventory": 12,
+    "avgSales": 41,
+    "leadTime": 3
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "inventory": 20,
+    "avgSales": 44,
+    "leadTime": 6
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "inventory": 15,
+    "avgSales": 40,
+    "leadTime": 5
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "inventory": 7,
+    "avgSales": 39,
+    "leadTime": 7
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "inventory": 11,
+    "avgSales": 50,
+    "leadTime": 4
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "inventory": 13,
+    "avgSales": 41,
+    "leadTime": 6
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "inventory": 14,
+    "avgSales": 42,
+    "leadTime": 3
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "inventory": 9,
+    "avgSales": 44,
+    "leadTime": 5
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "inventory": 12,
+    "avgSales": 50,
+    "leadTime": 6
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "inventory": 14,
+    "avgSales": 46,
+    "leadTime": 5
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "inventory": 13,
+    "avgSales": 41,
+    "leadTime": 7
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "inventory": 12,
+    "avgSales": 42,
+    "leadTime": 4
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "inventory": 9,
+    "avgSales": 39,
+    "leadTime": 3
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "inventory": 6,
+    "avgSales": 44,
+    "leadTime": 6
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "inventory": 8,
+    "avgSales": 48,
+    "leadTime": 7
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "inventory": 11,
+    "avgSales": 50,
+    "leadTime": 5
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "inventory": 15,
+    "avgSales": 45,
+    "leadTime": 3
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "inventory": 17,
+    "avgSales": 41,
+    "leadTime": 6
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "inventory": 19,
+    "avgSales": 43,
+    "leadTime": 4
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "inventory": 16,
+    "avgSales": 39,
+    "leadTime": 7
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "inventory": 8,
+    "avgSales": 50,
+    "leadTime": 5
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "inventory": 7,
+    "avgSales": 46,
+    "leadTime": 3
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "inventory": 5,
+    "avgSales": 38,
+    "leadTime": 6
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "inventory": 17,
+    "avgSales": 40,
+    "leadTime": 4
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "inventory": 12,
+    "avgSales": 42,
+    "leadTime": 5
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "inventory": 10,
+    "avgSales": 47,
+    "leadTime": 7
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "inventory": 13,
+    "avgSales": 50,
+    "leadTime": 6
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "inventory": 14,
+    "avgSales": 41,
+    "leadTime": 3
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "inventory": 15,
+    "avgSales": 43,
+    "leadTime": 4
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "inventory": 11,
+    "avgSales": 39,
+    "leadTime": 6
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "inventory": 9,
+    "avgSales": 40,
+    "leadTime": 5
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "inventory": 6,
+    "avgSales": 50,
+    "leadTime": 7
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "inventory": 5,
+    "avgSales": 48,
+    "leadTime": 4
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "inventory": 4,
+    "avgSales": 45,
+    "leadTime": 3
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "inventory": 12,
+    "avgSales": 40,
+    "leadTime": 6
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "inventory": 9,
+    "avgSales": 51,
+    "leadTime": 5
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "inventory": 7,
+    "avgSales": 46,
+    "leadTime": 6
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "inventory": 16,
+    "avgSales": 42,
+    "leadTime": 7
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "inventory": 18,
+    "avgSales": 39,
+    "leadTime": 5
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "inventory": 15,
+    "avgSales": 47,
+    "leadTime": 4
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "inventory": 13,
+    "avgSales": 45,
+    "leadTime": 6
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "inventory": 16,
+    "avgSales": 50,
+    "leadTime": 3
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "inventory": 11,
+    "avgSales": 40,
+    "leadTime": 7
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "inventory": 9,
+    "avgSales": 41,
+    "leadTime": 5
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "inventory": 7,
+    "avgSales": 46,
+    "leadTime": 6
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "inventory": 4,
+    "avgSales": 48,
+    "leadTime": 3
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "inventory": 5,
+    "avgSales": 45,
+    "leadTime": 4
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "inventory": 8,
+    "avgSales": 49,
+    "leadTime": 5
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "inventory": 12,
+    "avgSales": 47,
+    "leadTime": 6
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "inventory": 14,
+    "avgSales": 41,
+    "leadTime": 7
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "inventory": 11,
+    "avgSales": 40,
+    "leadTime": 4
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "inventory": 9,
+    "avgSales": 45,
+    "leadTime": 6
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "inventory": 5,
+    "avgSales": 50,
+    "leadTime": 3
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "inventory": 4,
+    "avgSales": 41,
+    "leadTime": 5
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "inventory": 3,
+    "avgSales": 42,
+    "leadTime": 7
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "inventory": 8,
+    "avgSales": 44,
+    "leadTime": 6
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "inventory": 7,
+    "avgSales": 40,
+    "leadTime": 4
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "inventory": 6,
+    "avgSales": 39,
+    "leadTime": 5
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "inventory": 9,
+    "avgSales": 41,
+    "leadTime": 6
+  }
+]

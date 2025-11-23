@@ -7,17 +7,13 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    // Generate 100 mock products
-    const generatedProducts = [];
-    for (let i = 0; i < 100; i++) {
-      generatedProducts.push({
-        name: `Product ${i + 1}`,
-        inventory: Math.floor(Math.random() * 50) + 1,
-        avgSales: Math.floor(Math.random() * 100) + 10,
-        leadTime: Math.floor(Math.random() * 10) + 1,
+    // Fetch 100 products from mock API
+    fetch("http://localhost:5000/api/products")
+      .then((response) => response.json())
+      .then((data) => setProducts(data))
+      .catch((error) => {
+        console.error("Error fetching products:", error);
       });
-    }
-    setProducts(generatedProducts);
   }, []);
 
   const handlePredict = async () => {
